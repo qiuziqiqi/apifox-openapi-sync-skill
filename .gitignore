@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# 绝不提交任何含密钥的文件
+.env
+.env.*
+!.env.example
